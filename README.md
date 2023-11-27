@@ -9,9 +9,7 @@ Within my GitHub you will find tools and reference materials/docs that I have us
 You can reach me @    
 - Twitter|X[`@ManuelBerrueta`](https://twitter.com/ManuelBerrueta)    
 - [LinkedIn](https://www.linkedin.com/in/manuel-berrueta/)
-
-## Blog
-I sometimes blog @ [revx0r.com](https://revx0r.com/)    
+- I sometimes blog @ [revx0r.com](https://revx0r.com/)  
 
 ## Interests
 - 📦 Containers

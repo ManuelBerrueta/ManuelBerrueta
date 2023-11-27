@@ -6,7 +6,6 @@ I am very lucky and blessed that I get to work in Offensive Security (🔴Red Te
 Within my GitHub you will find tools and reference materials/docs that I have used or still use to help me do my work & PoCs.
 
 ## Contact
-You can reach me @    
 - Twitter|X[`@ManuelBerrueta`](https://twitter.com/ManuelBerrueta)    
 - [LinkedIn](https://www.linkedin.com/in/manuel-berrueta/)
 - I sometimes blog @ [revx0r.com](https://revx0r.com/)  

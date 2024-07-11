@@ -1,7 +1,7 @@
 ## `whoami`
 Hello 👋 I'm Manny,   
      
-I am very lucky and blessed that I get to work in Offensive Security (🔴Red Teaming, 🟣Purple Teaming + 👨‍💻 AppSec) Operations and solve security challenges at scale which is my passion and work tha I truly really love to do.  
+I am very lucky and blessed that I get to work in Offensive Security (🔴Red Teaming, 🟣Purple Teaming + 👨‍💻 AppSec) Operations and solve security challenges at scale which is my passion and work that I truly really love to do.  
 
 I also enjoy working with 🔵 Blue Teams, 🕵️‍♂️ Threat Intel, and 👻 Incident Responders as well as providing support in Software and Services Incident Response Plan(s) ([SSIRPs](https://msrc.microsoft.com/blog/2019/06/inside-the-msrc-anatomy-of-a-ssirp-incident/)) and other endeavors.  
 
@@ -9,9 +9,8 @@ Within my GitHub you will find tools, reference materials and documentation that
 
 ---    
 ## Interests
-- 📦 Containers && ☸ Kubernetes
-- ☁ Cloud && 🆔 Identity
-- 🤖 AI
+-  ☸ Kubernetes && 📦 Containers
+- ☁ Cloud && 🆔 Identity && 🤖 AI
 - 🐍 Python && Golang
 
 ---    

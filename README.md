@@ -12,7 +12,7 @@ Within my GitHub you will find tools, reference materials and documentation that
 - 📦 Containers && ☸ Kubernetes
 - ☁ Cloud && 🆔 Identity
 - 🤖 AI
-- 🐍 Python & Golang
+- 🐍 Python && Golang
 
 ---    
 ## Contact

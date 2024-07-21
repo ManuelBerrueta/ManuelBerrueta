@@ -17,7 +17,7 @@ Within my GitHub you will find tools, reference materials and documentation that
 ## Contact
 - Twitter|X: [`@ManuelBerrueta`](https://twitter.com/ManuelBerrueta)    
 - LinkedIn: [Manuel-Berrueta](https://www.linkedin.com/in/manuel-berrueta/)
-- I sometimes blog @ [revx0r.com](https://revx0r.com/)
+- I sometimes blog @ [manuelberrueta.github.io](https://manuelberrueta.github.io/)
 
 ---   
 ## Some of the community projects that I have contributed to:

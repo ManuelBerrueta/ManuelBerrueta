@@ -15,17 +15,25 @@ Within my GitHub, you’ll find tools, reference materials, and documentation th
     - 🤖 AI
     - ☸ Kubernetes + 📦 Containers
 
+---   
+## Additional bits
+- A few of the community projects I've had the opportunity to contribute to:
+    - [Microsoft Azure Threat Research Matrix](https://aka.ms/ATRM)
+    - [LOLBAS Project (Living Off The Land Binaries and Scripts)](https://github.com/LOLBAS-Project/LOLBAS)
+    - [AADInternals](https://github.com/Gerenios/AADInternals)
+
+- Notable security news outlets where my work has been featured:
+    - [tl;dr sec](https://tldrsec.com/p/tldr-sec-240)
+    - [Risky Business Newsletter](https://news.risky.biz/risky-biz-news-us-takes-down-rts-twitter-bot-farm/)
+    - [Bad Sector Labs News](https://blog.badsectorlabs.com/last-week-in-security-lwis-2024-07-08.html)
+
 ---    
 ## Contact
 - Twitter|X: [`@ManuelBerrueta`](https://twitter.com/ManuelBerrueta)    
 - LinkedIn: [Manuel-Berrueta](https://www.linkedin.com/in/manuel-berrueta/)
 - I sometimes **Blog** @ [manuelberrueta.github.io](https://manuelberrueta.github.io/)
 
----   
-## Some of the community projects that I have contributed to:
-- [Microsoft Azure Threat Research Matrix](https://aka.ms/ATRM)
-- [AADInternals](https://github.com/Gerenios/AADInternals)
-    
+
 <!---
 ManuelBerrueta/ManuelBerrueta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

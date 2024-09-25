@@ -9,9 +9,11 @@ Within my GitHub you will find tools, reference materials and documentation that
 
 ---    
 ## Interests
-- **Infrastructure Security & Supply Chain Security:** ☁ Cloud, CI/CD, 🐧 Linux, ☸ Kubernetes + 📦 Containers
-- 🆔 Identity & 🤖 AI
-- 🐍 Python && Golang
+- 🔴 Red Team
+    - 🔗 Supply Chain Security (DevOps, DevSecOps, CI/CD)
+    - ☁ Cloud 
+    - 🤖 AI
+    - ☸ Kubernetes + 📦 Containers
 
 ---    
 ## Contact

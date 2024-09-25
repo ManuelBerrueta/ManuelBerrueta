@@ -8,7 +8,7 @@ In addition, I have the pleasure of collaborating with Blue Teams, Threat Intell
 Within my GitHub, you’ll find tools, reference materials, and documentation that support me in my mission 🚀.
 
 ---    
-## Interests
+### Interests
 - 🔴 Red Team
     - 🔗 Supply Chain Security (DevOps, DevSecOps, CI/CD)
     - ☁ Cloud 
@@ -16,21 +16,9 @@ Within my GitHub, you’ll find tools, reference materials, and documentation th
     - ☸ Kubernetes + 📦 Containers
 
 ---   
-## Additional bits
-- A few of the community projects I've had the opportunity to contribute to:
-    - [Microsoft Azure Threat Research Matrix](https://aka.ms/ATRM)
-    - [LOLBAS Project (Living Off The Land Binaries and Scripts)](https://github.com/LOLBAS-Project/LOLBAS)
-    - [AADInternals](https://github.com/Gerenios/AADInternals)
-
-- Notable security news outlets where my work has been featured:
-    - [tl;dr sec](https://tldrsec.com/p/tldr-sec-240)
-    - [Risky Business Newsletter](https://news.risky.biz/risky-biz-news-us-takes-down-rts-twitter-bot-farm/)
-    - [Bad Sector Labs News](https://blog.badsectorlabs.com/last-week-in-security-lwis-2024-07-08.html)
-
----    
-## Contact
-- Twitter|X: [`@ManuelBerrueta`](https://twitter.com/ManuelBerrueta)    
-- LinkedIn: [Manuel-Berrueta](https://www.linkedin.com/in/manuel-berrueta/)
+### Additional bits
+- Security news outlets where my work has been featured: [tl;dr sec](https://tldrsec.com/p/tldr-sec-240), [Risky Business Newsletter](https://news.risky.biz/risky-biz-news-us-takes-down-rts-twitter-bot-farm/), [Bad Sector Labs News](https://blog.badsectorlabs.com/last-week-in-security-lwis-2024-07-08.html)
+- A few of the community projects I've had the opportunity to contribute to: [Microsoft Azure Threat Research Matrix](https://aka.ms/ATRM), [LOLBAS Project (Living Off The Land Binaries and Scripts)](https://github.com/LOLBAS-Project/LOLBAS), [AADInternals](https://github.com/Gerenios/AADInternals)
 - I sometimes **Blog** @ [manuelberrueta.github.io](https://manuelberrueta.github.io/)
 
 

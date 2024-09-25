@@ -1,11 +1,11 @@
 ## `whoami`
 Hello 👋 I'm Manny,   
 
-I am a seasoned Offensive Security professional specializing in 🔴 Red Team, 🟣 Purple Team, and 👨‍💻 Application Security (AppSec) operations. Solving security challenges at scale is not just my profession, but my passion. I thrive on the complexity and impact of this work, which I truly love doing.
+I’m an experienced Offensive Security professional specializing in Red Team and Purple Team operations, with a background in Application Security (AppSec) engagements. I love tackling security challenges and engineering solutions, and I thrive on the complexity and impact of my work!
 
-I also enjoy working with 🔵 Blue Teams, 🕵️‍♂️ Threat Intel, and 👻 Incident Responders as well as providing support in Software and Services Incident Response Plan(s) ([SSIRPs](https://msrc.microsoft.com/blog/2019/06/inside-the-msrc-anatomy-of-a-ssirp-incident/)) and other endeavors.  
+In addition, I have the pleasure of collaborating with Blue Teams, Threat Intelligence, and Incident Responders, while also supporting Software and Services Incident Response Plans ([SSIRPs](https://msrc.microsoft.com/blog/2019/06/inside-the-msrc-anatomy-of-a-ssirp-incident/)) and contributing to various other initiatives.
 
-Within my GitHub you will find tools, reference materials and documentation that I use to help me along in my mission 😉
+Within my GitHub, you’ll find tools, reference materials, and documentation that support me in my mission 🚀.
 
 ---    
 ## Interests
